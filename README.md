@@ -5,4 +5,4 @@ Useful books collection with various books..
 1. Fork this repo..
 2. Made changes..
 3. Create a pull request..
-4. If everything OK your branche will be merged after review..
+4. If everything OK your branch will be merged after review..
