@@ -1,4 +1,5 @@
-# Books-Collection 📖
+# Books-Collection 📖 <img alt="Visitor Badge" src="https://visitor-badge.feriirawann.repl.co?username=cyrusjetson&repo=Books-Collection&label=VISITS&style=plastic&color=%23457BFF&contentType=svg">
+
 Useful books collection with various books..
 
 ## Categories 
