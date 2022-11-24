@@ -3,8 +3,8 @@
 Useful books collection with various books..
 
 ## Categories 
-1 . IT Cracking Books
-2 . Cyper Security Books
+1. IT Cracking Books
+2. Cyper Security Books
 
 # Wanna contribute???? 🤔
 1. Fork this repo..
